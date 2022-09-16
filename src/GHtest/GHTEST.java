@@ -1,5 +1,8 @@
 package GHtest;
 
-public class GHTEST {
 
+public class GHTEST {
+    public static void main(String[] args) {
+        System.out.println(" Hello World");
+    }
 }
