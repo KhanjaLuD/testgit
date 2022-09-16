@@ -9,7 +9,7 @@ public class B16 {
         long count = 0;
         while (n != 0){
              count++;
-              n /= 10;
+              n /=  10;
          }
         if (count == 0){
             count++;
